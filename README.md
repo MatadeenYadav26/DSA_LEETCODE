@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
