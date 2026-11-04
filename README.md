@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
