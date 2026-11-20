@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0268-missing-number) |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
