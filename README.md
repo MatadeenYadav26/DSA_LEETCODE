@@ -39,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
@@ -51,9 +52,18 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MatadeenYadav26/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
